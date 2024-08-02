@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/moviehub/static/css/main.745b8238.css",
-    "main.js": "/moviehub/static/js/main.ac244e7f.js",
-    "index.html": "/moviehub/index.html",
-    "main.745b8238.css.map": "/moviehub/static/css/main.745b8238.css.map",
-    "main.ac244e7f.js.map": "/moviehub/static/js/main.ac244e7f.js.map"
+    "main.css": "/React/static/css/main.745b8238.css",
+    "main.js": "/React/static/js/main.ac244e7f.js",
+    "index.html": "/React/index.html",
+    "main.745b8238.css.map": "/React/static/css/main.745b8238.css.map",
+    "main.ac244e7f.js.map": "/React/static/js/main.ac244e7f.js.map"
   },
   "entrypoints": [
     "static/css/main.745b8238.css",
